@@ -1,0 +1,219 @@
+{
+  "special_builders": [
+    {
+      "id": 1,
+      "title": "فيلا سكنية 235م للبيع كاش بالشروق القاهرة",
+      "desc": "تشطيب فاخر رخام مستورد سيراميك مستورد و صحي مستورد ارضي بحديقه و دور اول و دور ثاني مطل علي مربع حديقه كبير",
+      "image": "https://aqaryamasr.com/storage/realestates/pNCc7PyzDtQoUdeiZZxgqXY7MgstZ3bm8iWCeo5e.jpg",
+      "price": 7250000,
+      "images": [
+        "https://aqaryamasr.com/storage/realestates/pNCc7PyzDtQoUdeiZZxgqXY7MgstZ3bm8iWCeo5e.jpg",
+        "https://aqaryamasr.com/storage/realestates/WUkTXeudt9Xesohjhx2aSrRQnVYOzydNuRyha0Xv.jpg",
+        "https://aqaryamasr.com/storage/realestates/iSWVoreXHHJ7WfRUS03leheeSfGsC0MX5DEQCJkF.jpg",
+        "https://aqaryamasr.com/storage/realestates/gquewXfIkb4vdJFrzuO9lX3DN5QVnhijbL0EUnYd.jpg"
+      ],
+      "location": "الشروق",
+      "space": "235",
+      "rooms": 4,
+      "bathRomms": 4
+    },
+    {
+      "id": 2,
+      "title": "شقة سكنية 230م للبيع كاش بالقاهرة الجديدة القاهرة",
+      "desc": "Oronfel villas 40/6 - New cairo التجمع الخامس - حي القرنفل فيلات شقه ٢٣٠ متر - حصه في الارض - مصعد - باكيه جراج - جاهزه للتسليم الفوري - السعر كاش فقط بعقد نهائي و توكيل - مالك اول بدون توكيلات - ",
+      "image": "https://aqaryamasr.com/storage/realestates/4OQWlTynhgpLqrmZQjuNvU0cjDq7HFxkvSdc2PYf.jpg",
+      "price": 3250000,
+      "images": [
+        "https://aqaryamasr.com/storage/realestates/ug8BZhNbMenR4OV5p7d7qm37EtBG0bdsEC6JX5hz.jpg",
+        "https://aqaryamasr.com/storage/realestates/ipMXv8JC6FtZ1bA0GyvLfozikSk1lJELMDZ7hStA.jpg",
+        "https://aqaryamasr.com/storage/realestates/3XKNeiJ9m3dViyxB7xDapa3v7otpVLk1H315jYLt.jpg",
+        "https://aqaryamasr.com/storage/realestates/MlrrpNMA7Q9byYt82mCJ7C1r9cy0GH8zBw9UuHJY.jpg"
+      ],
+      "location": "القاهرة الجديدة",
+      "space": "235",
+      "rooms": 4,
+      "bathRomms": 4
+    }
+  ],
+  "builders": [
+    {
+      "id": 1,
+      "title": "شقة سكنية 250م للبيع كاش بمصر الجديدة القاهرة",
+      "desc": "للجادين للبيع بسعر مغري جدا لفترة محدودة الموقع : - موقع رائع ومتميز جدا في شارع الحجاز الرئيسي بأرقي موقع بمصر الجديدة - خطوات من المحلات والهابرماركت وجميع الخدمات الرئيسية - دقيقة من جميع الموصلات الشقة عبارة عن : - 3 غرف كبيرة - 2 حمام - 2 ريسبشن كبير - مطبخ - 2 ترأس بفيو بانوراما مصر الجديدة - تشطيب سوبر الترا سوبرلوكس - الشقة بحرية وغير مجروحة - حصة في الأرض و الجراج - الدور 9 وليس الاخير - 2 اسانسير - انتركم - حارس للبرج إمكانية البيع بالعفش أو بدون العفش السعر 6 مليون (قابل للتفاوض) للاستفسار برجاء الاتصال بي مباشرة علي الموبايل او الواتساب في اي وقت",
+      "image": "https://aqaryamasr.com/storage/images/3QTEguz7VgxbDltapkhWnvnPXSDT7uNzLVQM3Rhy.jpg",
+      "price": 6000000,
+      "images": [
+        "https://aqaryamasr.com/storage/images/LYdmUci0ibMM4IEU0t1xxIDvGk6ZFcXDFLpiWk6H.jpg",
+        "https://aqaryamasr.com/storage/images/jDYbqKBokMWEX8AJhjzyU3VEkvMQdlayJxh8qDPQ.jpg",
+        "https://aqaryamasr.com/storage/images/TfKnTc2lLyUuB52plu9tdG0IfAVtmvZpzivLVUsA.jpg",
+        "https://aqaryamasr.com/storage/images/ZSkyqoQgtiOklHcejfWBko0xuqC8yFtMqaB5oxY3.jpg"
+      ],
+      "location": "مصر الجديده",
+      "space": "250",
+      "rooms": 3,
+      "bathRomms": 2
+    },
+    {
+      "id": 2,
+      "title": "شقة سكنية 225م للبيع كاش بالشيخ زايد الجيزة",
+      "desc": "الشيخ زايد/حى٥/مجاورة ٢/دور أول/خلف سنترال زايد ١/خلف بنك مصر و البنك الاهلى المساحة :225 متر مربع : 3نوم/3حمام (واحد ماستر) /ريسبشن ٤قطعة/أرضيات باركية أرو زان/حوائط معزولة ضد الحرارة و الصوت و شبابيك PVC زجاج مزدوج عاكس/ Double face/شرقى بحرى/تدخلها الشمس فى الشتاء المطلوب 5 مليون",
+      "image": "https://aqaryamasr.com/storage/realestates/LoGQsTMgTLNv9pYJXMKy7X2YNMKizoNzsiEpKTPW.jpg",
+      "price": 5000000,
+      "images": [
+        "https://aqaryamasr.com/storage/realestates/RSiLkoK1S384EusGfMyxmncGEr7bT8mw0TZDFxwJ.jpg",
+        "https://aqaryamasr.com/storage/realestates/RLhMGSb16EqswcPOrBC4TKgE9PXDbEE8YDnIk1u8.jpg",
+        "https://aqaryamasr.com/storage/realestates/YpyR2bcecbdHm9K2DQ4RQl1DriWbCCacI8nJo5A8.jpg",
+        "https://aqaryamasr.com/storage/realestates/LoGQsTMgTLNv9pYJXMKy7X2YNMKizoNzsiEpKTPW.jpg"
+      ],
+      "location": "مصر الجديده",
+      "space": "250",
+      "rooms": 3,
+      "bathRomms": 3
+    },
+    {
+      "id": 3,
+      "title": "شقة سكنية 185م للبيع كاش بحدائق الاهرام الجيزة",
+      "desc": "بسم الله الرحمن الرحيم أروع اطلالة ف حدائق الاهرام .. على السكن على طول كاملة العدادات .. مفيهاش غلطة تشطيب الترا سوبر لوكس 🔥 🔥 غير مجروحة نهائيا شقه واجهه للبيع 185 متر تحميل قديم دور رابع رسمي فوقيها دورين 3 غرف 2 حمام ومطبخ وريسبشن 3قطع عداد كهرباء وعداد غاز واسانسير موقع مميز رقم العماره منطقة ط مطلوب مليون 875 بريق العقارية... مفتاحك للعقارات الرائعة افضل عمولة في مصر 1.5٪ كود 849",
+      "image": "https://aqaryamasr.com/storage/images/jNflgv7ZEF1B2IARgO1fQjNy5DBrXLIhCI1AbnAR.jpg",
+      "price": 1875000,
+      "images": [
+        "https://aqaryamasr.com/storage/images/jNflgv7ZEF1B2IARgO1fQjNy5DBrXLIhCI1AbnAR.jpg",
+        "https://aqaryamasr.com/storage/images/94turVDSbLmvt9kxTu7qkWl8ap1MxdxoLXjTlWuG.jpg",
+        "https://aqaryamasr.com/storage/images/1coqbB3XI5xIEqhHKSplux5w59JeJAHIhfky8poD.jpg",
+        "https://aqaryamasr.com/storage/images/WpyxUmfNZWsRpJKWDavC5MhD0YI1y8EOkG4sBbYy.jpg"
+      ],
+      "location": " حدايق الاهرام",
+      "space": "185",
+      "rooms": 3,
+      "bathRomms": 2
+    },
+    {
+      "id": 4,
+      "title": "فيلا سكنية 620م للبيع كاش بالعبور القليوبية",
+      "desc": "فيلا للبيع مدينة العبور الحى السادس 620 متر بجوار الخدمات مكونة من بدروم و دورين اربع شقق مطلوب نهائى 12 مليون جنية",
+      "image": "https://aqaryamasr.com/storage/images/MIi9S4iHFnACJHj1gUJ4HX2zsD7BNwboD14zPMvW.jpg",
+      "price": 12000000,
+      "images": [
+        "https://aqaryamasr.com/storage/images/XItPiT1uisvBMox2HceAGhB4zrGwcHKEEOuvk4WC.jpg",
+        "https://aqaryamasr.com/storage/images/79i7Wi04BQj4uj1V4NtUJGxqYhiUXLWGE3WECuYu.jpg",
+        "https://aqaryamasr.com/storage/images/cmnlm6KKWixSHnTX3kEboocVnNbVyLtrRlOTGYCa.jpg",
+        "https://aqaryamasr.com/storage/images/5twW0ypilYZ9YmZuLgZAjowNHyVFUwSkBcieG6i3.jpg"
+      ],
+      "location": "العبور القليوبيه ",
+      "space": "185",
+      "rooms": 20,
+      "bathRomms": 9
+    },
+    {
+      "id": 5,
+      "title": "شقة سكنية 210م للبيع بالتقسيط بمحرم بك الإسكندرية",
+      "desc": "#لمحبين الهدوء والشقق الواسعة *شقة من المالك مباشرة* عبارة عن 3 ادوار -شقة دوبليكس وحضانة دور ارضى مشهرة -عدادين كهربا حضانة وشقة -مساحة الشقة الدور الواحد 80 م -مقسمة الى 3 غرف وحمام بالاعلى ورسبشن قطعتين وحمام ومطبخ بالاسفل -بجوار مدرسة سيدى جابر للغات ومدرسة الاقبال ومديرية التربية والتعليم -مسجلة شهر عقارى -مش محتاجة اى مصاريف نهائى لمزيد من التفاصيل التواصل مع المالك مباشرة 01205550524/01006660303",
+      "image": "https://aqaryamasr.com/storage/images/JyQFRBKW7OTM1P5LSfnOr0F87rFqE97sMqLx21jO.jpg",
+      "price": 12000000,
+      "images": [
+        "https://aqaryamasr.com/storage/images/8FsIVHqIBzvcndM2pa5Fdh24tGvDB7cSnTUJdVbO.jpg",
+        "https://aqaryamasr.com/storage/images/gpioQ3Ubg3G4YRvuBw1VjxCrgpVglLDCf50NAHCW.jpg",
+        "https://aqaryamasr.com/storage/images/IdaRJ1hkpNh9vXt3F642wRoYcPz0gB3skemRlGvz.jpg",
+        "https://aqaryamasr.com/storage/images/mNHN9D2QOu40KuhJYymdpVrxc1rixsZOYxtRUnvf.jpg"
+      ],
+      "location": "محرم بك الاسكندريه",
+      "space": "210",
+      "rooms": 3,
+      "bathRomms": 2
+    },
+    {
+      "id": 6,
+      "title": "شقة سكنية 165م للبيع كاش بجليم الإسكندرية",
+      "desc": "شقه في جليم ثالث نمره من البحر شارع بطليموس مساحة ١٦٥ متر في الدور ال ٦ والعماره ٩ ادوار مدفوعة التصالح مقسمه ل ٣ غرف ورسيبشن قطعتين و ٣ حمام منهم واحد ماستر السعر ٣ مليون و٧٠٠ الف نهائي بالاضافه للعموله",
+      "image": "https://aqaryamasr.com/storage/realestates/oaeU5bKjubsCS0zYfBPxwTnYCjkf1AVcx1lWguQx.jpg",
+      "price": 12000000,
+      "images": [
+        "https://aqaryamasr.com/storage/realestates/zYqKl3MZUbFuBtp0AvyB8RtNz05nM636CFluE8k6.jpg",
+        "https://aqaryamasr.com/storage/realestates/FPG4APdZnHOGL4wugsWsV8skVcpvOZeXNKnNvD0M.jpg",
+        "https://aqaryamasr.com/storage/realestates/LnHP1kYIkDxJUD1WUSwmsJXtLuhZ1hr3AFP85Zqs.jpg",
+        "https://aqaryamasr.com/storage/realestates/VdIAnox9gH116FxYycbOtyLHtQyRr5puBno5V2ZB.jpg"
+      ],
+      "location": "جليم الاسكندرية",
+      "space": "165",
+      "rooms": 3,
+      "bathRomms": 3
+    },
+    {
+      "id": 7,
+      "title": "شقة سكنية 224م للبيع كاش بسابا باشا الإسكندرية",
+      "desc": "- للبيع - ســـــاباباشــــا - ع البحــــر مباشرا - فيو بحر - مســــــاحة / 224 م ( 3 غرف - ريسبشن 3 قطع - 3 حمام - سوبر لوكس - كاملة العدادات - 4 شقق ف الدور ) - الــــــــــدور / 4 - البــــــــرج / 12 دور - فيو الريسبشن / بحـــــر - فيو الغرف / بحــــــر - اسانسير / 2 - مبـــــانى / 2015 , مرخصة - للاستفســـــار فون - واتس اب : 01206657000 https://chat.whatsapp.com/ELfyhyeg8XzHTGIjAn7R09 https://instagram.com/dodoeg391?igshid=ZDdkNTZiNTM= #شركة_داماس_ايجى_للتسويق_العقارى",
+      "image": "https://aqaryamasr.com/storage/images/PLIIY0pHNYj60our70NHM34bvyXXwe7VqnbFOFmf.jpg",
+      "price": 10500000,
+      "images": [
+        "https://aqaryamasr.com/storage/realestates/zYqKl3MZUbFuBtp0AvyB8RtNz05nM636CFluE8k6.jpg",
+        "https://aqaryamasr.com/storage/realestates/FPG4APdZnHOGL4wugsWsV8skVcpvOZeXNKnNvD0M.jpg",
+        "https://aqaryamasr.com/storage/realestates/LnHP1kYIkDxJUD1WUSwmsJXtLuhZ1hr3AFP85Zqs.jpg",
+        "https://aqaryamasr.com/storage/realestates/VdIAnox9gH116FxYycbOtyLHtQyRr5puBno5V2ZB.jpg"
+      ],
+      "location": "سابا باشا الاسكندرية",
+      "space": "224",
+      "rooms": 3,
+      "bathRomms": 2
+    },
+    {
+      "id": 8,
+      "title": "شقة سكنية 100م للبيع بالتقسيط ب6 أكتوبر الجيزة",
+      "desc": "Green Town Compound 🏕️ 💠 المساحات 🏤 تقسيم مساحة (100M) 3 غرف - رسيبشن قطعتين + مطبخ + حمام 🏤 تقسيم المساحات (135/145/160/175) 3 غرف - 3 قطع رسيبشن - 3 حمام + مطبخ 💠 دوبلكس ارضي واول 200م 4 غرف - رسيبشن - ليڤينج - مطبخ - 2 حمام 🏡 بنتهاوس 200م 4 غرف - رسيبشن - مطبخ 2 حمام - تراس 20م 🔑 نوع التشطيب نصف تشطيب محارة وحلوق + اساسيات سباكة وكهرباء 🎴 الخدمات حصة بالجراچ + حصة بالأسانسير ⭐ مميزات الكمبوند أمن + مول تجاري + لاند سكيب وبحيرات صناعية + بجوار جميع للخدمات 🏤 الاستلام فوري - خلال 6 اشهر -خلال 8 اشهر للتواصل 01145467101",
+      "image": "https://aqaryamasr.com/storage/images/vd6G1SjLn72M3jFmOPVE3ZJNFmnvPb0KUYfNVPhz.jpg",
+      "price": 900000,
+      "images": [
+        "https://aqaryamasr.com/storage/realestates/zYqKl3MZUbFuBtp0AvyB8RtNz05nM636CFluE8k6.jpg",
+        "https://aqaryamasr.com/storage/realestates/FPG4APdZnHOGL4wugsWsV8skVcpvOZeXNKnNvD0M.jpg",
+        "https://aqaryamasr.com/storage/realestates/LnHP1kYIkDxJUD1WUSwmsJXtLuhZ1hr3AFP85Zqs.jpg",
+        "https://aqaryamasr.com/storage/realestates/VdIAnox9gH116FxYycbOtyLHtQyRr5puBno5V2ZB.jpg"
+      ],
+      "location": " الجيزة اكتوبر",
+      "space": "100",
+      "rooms": 2,
+      "bathRomms": 1
+    },
+    {
+      "id": 9,
+      "title": "شقة سكنية 190م للبيع كاش بالعبور القليوبية",
+      "desc": "فرصه حقيقيه🌟 🔥 شقه للبيع من المالك مباشره ب فيو مباشره امام قصور وحدائق جمعيه عرابي يعني فيو و لا اجمل ، وكمان استلام فوررري الشقه بمساحه 190 م دور تالت الشقه ب فيو دبل فيس تقسيمه داخليه للشقه مميزه جراج خاص وغرفه تخزين خاصه اسانسيرات من الجراج للروف مطلوب 3 مليون قابل للتفاوض لمزيد من التفاصيل ومعاينه الشقه يرجي التواصل خاص",
+      "image": "https://aqaryamasr.com/storage/images/sYJhmo1lYgWS0XVxEFudoY7iXTVpEO9pGEUY1DsY.jpg",
+      "price": 3000000,
+      "images": [
+        "https://aqaryamasr.com/storage/realestates/zYqKl3MZUbFuBtp0AvyB8RtNz05nM636CFluE8k6.jpg",
+        "https://aqaryamasr.com/storage/realestates/FPG4APdZnHOGL4wugsWsV8skVcpvOZeXNKnNvD0M.jpg",
+        "https://aqaryamasr.com/storage/realestates/LnHP1kYIkDxJUD1WUSwmsJXtLuhZ1hr3AFP85Zqs.jpg",
+        "https://aqaryamasr.com/storage/realestates/VdIAnox9gH116FxYycbOtyLHtQyRr5puBno5V2ZB.jpg"
+      ],
+      "location": " العبور القليوبية",
+      "space": "190",
+      "rooms": 3,
+      "bathRomms": 36
+    },
+    {
+      "id": 10,
+      "title": "شقة سكنية 190م للبيع كاش بالعبور القليوبية",
+      "desc": "فرصه حقيقيه🌟 🔥 شقه للبيع من المالك مباشره ب فيو مباشره امام قصور وحدائق جمعيه عرابي يعني فيو و لا اجمل ، وكمان استلام فوررري الشقه بمساحه 190 م دور تالت الشقه ب فيو دبل فيس تقسيمه داخليه للشقه مميزه جراج خاص وغرفه تخزين خاصه اسانسيرات من الجراج للروف مطلوب 3 مليون قابل للتفاوض لمزيد من التفاصيل ومعاينه الشقه يرجي التواصل خاص",
+      "image": "https://aqaryamasr.com/storage/images/sYJhmo1lYgWS0XVxEFudoY7iXTVpEO9pGEUY1DsY.jpg",
+      "price": 3000000,
+      "images": [
+        "https://aqaryamasr.com/storage/realestates/zYqKl3MZUbFuBtp0AvyB8RtNz05nM636CFluE8k6.jpg",
+        "https://aqaryamasr.com/storage/realestates/FPG4APdZnHOGL4wugsWsV8skVcpvOZeXNKnNvD0M.jpg",
+        "https://aqaryamasr.com/storage/realestates/LnHP1kYIkDxJUD1WUSwmsJXtLuhZ1hr3AFP85Zqs.jpg",
+        "https://aqaryamasr.com/storage/realestates/VdIAnox9gH116FxYycbOtyLHtQyRr5puBno5V2ZB.jpg"
+      ],
+      "location": " العبور القليوبية",
+      "space": "190",
+      "rooms": 3,
+      "bathRomms": 36
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "hema",
+      "email": "hema@mail.com",
+      "phone": "01284954021",
+      "password": "12345"
+    }
+  ]
+}
